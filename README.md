@@ -33,6 +33,8 @@ Feel free to fork this repository, review the code, or suggest improvements! If 
 ## 📥 Contact
 For any inquiries or further information, feel free to reach out to me via GitHub issues or email.
 
+## 📄 Full Report
+[Download the Full Heart Attack Analysis Report (PDF)](./heart_attack_analysis_india.pdf)
 ---
 
 ### 🔗 Links
