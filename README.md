@@ -18,9 +18,6 @@ This project analyzes heart attack data from various states in India, focusing o
 - **Data Preprocessing**: Excel was used for initial data cleaning and structuring to prepare for deeper analysis.
 - **Data Analysis & Visualization**: Power BI was used to explore relationships and create visualizations like pie charts, scatter plots, and bar charts.
 
-## 🚀 Goals & Next Steps
-This project serves as a starting point for understanding the relationship between lifestyle habits and heart attacks. Moving forward, I aim to expand on this analysis by exploring **predictive modeling** to predict heart attack occurrences based on lifestyle and demographic data.
-
 ## 📂 Project Files
 The project consists of the following files:
 - **SQL queries**: For extracting the data.
@@ -36,11 +33,4 @@ For any inquiries or further information, feel free to reach out to me via GitHu
 ## 📄 Full Report
 [Download the Full Heart Attack Analysis Report (PDF)](./heart_attack_analysis_india.pdf)
 ---
-
-### 🔗 Links
-- **GitHub Repository**: [Your GitHub Repository Link]
-- **Dataset**: [Your Dataset Link if available]
-
----
-
 **#DataAnalytics #PowerBI #SQL #HeartHealth #LifestyleHabits #DataScience #Smoking #Drinking #HealthInsights #BusinessIntelligence**
